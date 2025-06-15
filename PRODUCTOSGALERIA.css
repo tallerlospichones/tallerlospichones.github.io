@@ -197,16 +197,20 @@ footer {
         
     }
     header h1 {
-    font-size: 2rem;
-    margin-bottom: 3px;
-    padding: 0px;
+    font-size: 25px;
+    margin-bottom: 0px;
+    padding: -10px;
+}
+.container{
+    width: 106%;
+    position: absolute;
 }
 
 header p {
     font-size: 1.1rem;
     color: #f0e5d8; 
     
-    margin-top: 10px;
+    margin-top:5px;
 }
 
 
