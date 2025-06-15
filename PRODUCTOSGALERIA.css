@@ -183,7 +183,7 @@ footer {
         text-decoration: underline;
         border-radius: 10px;
     }
-@media (max-width: 480px) {
+@media (max-width: 450px) {
     .menu {
         position: relative;
         width: 92%;
