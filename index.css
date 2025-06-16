@@ -213,8 +213,9 @@ font-family: "Archivo Black", sans-serif;
         heigth:800px;
     }
    .nombre{
-  font-size: 40px;
+  font-size: 20px;
   position: absolute;
+       top:20px;
 }
     .ms.show {
         display: flex;
