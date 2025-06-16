@@ -208,7 +208,7 @@ font-family: "Archivo Black", sans-serif;
 @media (max-width: 480px)
 {
     .prin{
-        width:140%;
+        width:135%;
         position:relative;
         heigt:800px;
     }
