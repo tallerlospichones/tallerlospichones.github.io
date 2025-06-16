@@ -136,9 +136,9 @@
         left: 5px;
     }
  .cont{
-    position: absolute;
+    position: relative;
      width:140%;
-        height:90%;
+        heigt:100%;
     }
     .l img {
         width: 70px;
@@ -216,8 +216,8 @@
         height: 60px;
         font-size: 12px;
         position: relative;
-        left: 50px;
-        top: 20px;
+        left: 45px;
+        top: 18px;
     }
     
  }
