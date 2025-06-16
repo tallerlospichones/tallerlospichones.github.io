@@ -205,8 +205,12 @@ font-family: "Archivo Black", sans-serif;
     to   { color: #a5865dde; }
   }
 
-@media (max-width: 480px)
+@media (max-width: 450px)
 {
+
+    .prin{
+    width: 100%;
+    }
     .ms.show {
         display: flex;
      
@@ -256,8 +260,13 @@ font-family: "Archivo Black", sans-serif;
         border-radius: 5px;
     }
 .nombre{
-  font-size: 40px;
+  font-size: 35px;
   position: absolute;
+       text-align: center;
+    font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    
 }
   .circulo{
     left:  40px;
