@@ -210,6 +210,7 @@ font-family: "Archivo Black", sans-serif;
 
     .prin{
     width: 100%;
+        heigth:800px;
     }
     .ms.show {
         display: flex;
@@ -246,7 +247,7 @@ font-family: "Archivo Black", sans-serif;
     }
 .menu{
   left: 2px;
-    width:79%;
+    width:100%;
     position:relative;
 }
     .ms {
