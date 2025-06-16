@@ -207,6 +207,9 @@ font-family: "Archivo Black", sans-serif;
 
 @media (max-width: 480px)
 {
+    .prin{
+        width:140px;
+    }
     .ms.show {
         display: flex;
      
