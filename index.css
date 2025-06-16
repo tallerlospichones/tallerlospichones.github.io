@@ -209,6 +209,8 @@ font-family: "Archivo Black", sans-serif;
 {
     .prin{
         width:140%;
+        position:relative;
+        heigt:800px;
     }
     .ms.show {
         display: flex;
