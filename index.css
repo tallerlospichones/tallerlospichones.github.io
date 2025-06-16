@@ -261,12 +261,12 @@ font-family: "Archivo Black", sans-serif;
     }
 .nombre{
   font-size: 35px;
-  position: relative;
+  position: absolute;
        text-align: center;
     font-family: "Archivo Black", sans-serif;
   font-weight: 400;
   font-style: normal;
-    top:30px;
+    top:150px;
     
 }
   .circulo{
