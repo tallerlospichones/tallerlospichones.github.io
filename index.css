@@ -205,14 +205,8 @@ font-family: "Archivo Black", sans-serif;
     to   { color: #a5865dde; }
   }
 
-@media (max-width: 450px)
+@media (max-width: 480px)
 {
-
-    .prin{
-    width: 100%;
-        heigth:800px;
-    }
- 
     .ms.show {
         display: flex;
      
@@ -247,9 +241,7 @@ font-family: "Archivo Black", sans-serif;
        
     }
 .menu{
-  left: 2px;
-    width:100%;
-    position:relative;
+  left: 5px;
 }
     .ms {
         display: none;
@@ -263,7 +255,10 @@ font-family: "Archivo Black", sans-serif;
         z-index: 999;
         border-radius: 5px;
     }
-  
+.nombre{
+  font-size: 40px;
+  position: absolute;
+}
   .circulo{
     left:  40px;
     position: relative;
@@ -284,10 +279,8 @@ font-family: "Archivo Black", sans-serif;
  .l img {
         width: 70px;
         top: 10px;
-        left: 70%;
+        left: 80%;
         position: relative;
 
     }
 }
-
- 
