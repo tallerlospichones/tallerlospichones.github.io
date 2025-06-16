@@ -129,7 +129,7 @@
 .hamburger{
     display: none;
   }
-@media (max-width: 480px)
+@media (max-width: 450px)
  {
     .menu{
         position: absolute;
@@ -137,6 +137,7 @@
     }
  .cont{
     position: absolute;
+     width:140%;
         height:90%;
     }
     .l img {
