@@ -186,7 +186,7 @@ footer {
 @media (max-width: 450px) {
     .menu {
         position: relative;
-        width: 92%;
+        width: 95%;
         left: 1px;
         height: 40px;
         padding: 10px;
