@@ -85,7 +85,7 @@
     
     .contenedor {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* 3 columnas */
+        grid-template-columns: repeat(3, 1fr); 
         grid-template-rows: (3,1fr);
         gap: 50px;
         width: 100%;
