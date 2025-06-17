@@ -215,7 +215,7 @@ height: 40px;
 position: absolute;
     }
     .prin{
-      height: 100%;
+      height: 900px;
     }
  .l img {
         width: 70px;
@@ -225,7 +225,7 @@ position: absolute;
 .sev{
   width: 90%;
   left: 20px;
-  position: relative;
+  position: absolute;
   top:10px;
     heigth:120x;
 }
