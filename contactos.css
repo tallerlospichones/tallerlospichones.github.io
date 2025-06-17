@@ -136,7 +136,7 @@
         left: 5px;
     }
  .cont{
-    position: relative;
+    position: absolute;
      width:140%;
         heigt:100%;
     }
