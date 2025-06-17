@@ -160,7 +160,7 @@
    
 
     .ms a {
-        font-size: 40px;
+        font-size: 25px;
         left: -15px;
         position: relative;
         font-family:initial;
@@ -184,7 +184,7 @@
         display: none;
         flex-direction: column;
         background-color: #240000;
-        width: 180px;
+        width: 200px;
          top:-12px;
         left: -5px;
         opacity:0.9;
