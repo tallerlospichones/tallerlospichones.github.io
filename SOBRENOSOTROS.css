@@ -322,6 +322,7 @@
        .sobre{
            width:140%;
            heigt:100%;
+           position:relative;
        }
 .contenedor {
         display: grid;
