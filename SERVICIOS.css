@@ -161,9 +161,13 @@ top:710px;
      
       
     }
+    .menu{
+
+        left:3px;
+    }
     .prin{
         width:140%;
-        heigth:100%
+        heigth:800px;
         position:relative;
     }
 
