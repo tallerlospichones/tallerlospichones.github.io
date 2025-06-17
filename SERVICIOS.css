@@ -156,6 +156,10 @@ top:710px;
 
 @media (max-width: 450px)
 {
+
+    .menu{
+        rigth:10px;
+    }
      .ms.show {
         display: flex;
      
@@ -221,8 +225,8 @@ position: absolute;
 .sev{
   width: 90%;
   left: 20px;
-  position: absolute;
-  top:110px;
+  position: relative;
+  top:10px;
     heigth:120x;
 }
 .sef{
