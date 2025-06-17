@@ -159,6 +159,7 @@ top:710px;
 
     .menu{
         rigth:10px;
+        left:3px;
     }
      .ms.show {
         display: flex;
@@ -174,7 +175,7 @@ top:710px;
    
 
     .ms a {
-        font-size: 40px;
+        font-size: 30px;
         left: -15px;
         position: relative;
         font-family:initial;
@@ -198,7 +199,7 @@ top:710px;
         display: none;
         flex-direction: column;
         background-color: #240000;
-        width: 180px;
+        width: 200px;
          top:-12px;
         left: -10px;
         opacity:0.9;
