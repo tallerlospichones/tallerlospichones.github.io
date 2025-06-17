@@ -154,12 +154,17 @@ top:710px;
   animation-delay: 6s; 
 }
 
-@media (max-width: 480px)
+@media (max-width: 450px)
 {
     .ms.show {
         display: flex;
      
       
+    }
+    .prin{
+        width:100%;
+        heigth:100%
+        position:relative;
     }
 
     .ms li {
