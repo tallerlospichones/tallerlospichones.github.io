@@ -196,7 +196,7 @@ top:710px;
         background-color: #240000;
         width: 180px;
          top:-12px;
-        left: -5px;
+        left: -10px;
         opacity:0.9;
         position: relative;
         z-index: 999;
@@ -223,6 +223,7 @@ position: absolute;
   left: 20px;
   position: absolute;
   top:110px;
+    heigth:35%;
 }
 .sef{
   font-size: 10px;
