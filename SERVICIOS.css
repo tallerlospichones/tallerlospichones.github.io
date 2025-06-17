@@ -156,19 +156,10 @@ top:710px;
 
 @media (max-width: 450px)
 {
-    .ms.show {
+     .ms.show {
         display: flex;
      
       
-    }
-    .menu{
-
-        left:3px;
-    }
-    .prin{
-        width:140%;
-        heigth:900px;
-        position:relative;
     }
 
     .ms li {
@@ -219,7 +210,9 @@ top:710px;
 height: 40px;
 position: absolute;
     }
-  
+    .prin{
+      height: 100%;
+    }
  .l img {
         width: 70px;
         top: 10px;
@@ -230,7 +223,6 @@ position: absolute;
   left: 20px;
   position: absolute;
   top:110px;
-    
 }
 .sef{
   font-size: 10px;
@@ -242,5 +234,3 @@ position: absolute;
 
 }
     }
-
-   
