@@ -219,6 +219,7 @@ position: absolute;
     }
  .l img {
         width: 70px;
+     height:50px;
         top: 10px;
         left: 80%;
         position: relative;}
@@ -227,7 +228,7 @@ position: absolute;
   left: 20px;
   position: absolute;
   top:10px;
-    heigth:120x;
+   
 }
 .sef{
   font-size: 10px;
