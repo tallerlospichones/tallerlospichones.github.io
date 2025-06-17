@@ -197,8 +197,8 @@
      .circo {
         grid-template-columns: 1fr 1fr; /* 2 columnas en vez de 4 */
         grid-template-rows: auto;
-        width: 95%;
-        height: 60px;
+        width: 98%;
+        height: 90px;
         left: 17px;
         top: 20%;
         height: 70%;
